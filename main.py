@@ -1,4 +1,7 @@
-print("Third changes!")
+print("Welcome to the weather")
 
 
-print("Hi!")
+print("Work!")
+
+
+print("End!")
