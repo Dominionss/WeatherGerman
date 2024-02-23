@@ -1,7 +1,7 @@
 print("Welcome to the weather")
 
 
-print("Work!")
+ print("Work!")
 
 print("The weather")
 
